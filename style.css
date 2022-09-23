@@ -13,6 +13,7 @@ a:focus{
 
 /* Side bar*/
 
+
 .wrapper{
     display: flex;
     text-decoration: none;
@@ -173,10 +174,12 @@ restantes elementos*/
     text-align: justify;
 }
 /* Alinhar o p à direita da imagem*/
-/*.texto .right{
+.right{
+    margin: 15px;
     text-align: justify; 
     float: right;
-}*/
+    padding-left: 45%;
+}
 
 /*sobre.html*/
 img{
