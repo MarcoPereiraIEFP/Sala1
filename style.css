@@ -234,6 +234,25 @@ ul{
     list-style-type: none;
 }
 
+#bronco {
+
+    width: 30%;
+    height: 30%;
+}
+
+#toyota {
+
+    width: 30%;
+    height: 30%;
+}
+
+#hyundai {
+
+    width: 30%;
+    height: 30%;
+
+}
+
 /*aixam.html*/
 .flexbox{
     justify-content:center;
